@@ -16,3 +16,22 @@ A varitational auto encoder with KL diversion and MSE loss, implemented using py
     <td> Training output in MNIST </td>
   </tr>
 </table>
+<!-- 
+<table>
+    <tr>
+      <td> <img src="results/reconstruction0.png"> </td>
+  </tr>
+  <tr>
+      <td> <img src="results/reconstruction1.png"> </td>
+  </tr>
+  <tr>
+      <td> <img src="results/reconstruction2.png"> </td>
+  </tr>
+    <tr>
+      <td> <img src="results/reconstruction3.png"> </td>
+  </tr>
+ <tr>
+      <td> <img src="results/reconstruction4.png"> </td>
+  </tr>
+</table>
+-->

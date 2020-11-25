@@ -3,6 +3,13 @@ A varitational auto encoder with KL diversion and MSE loss, implemented in pytor
 
 
 ## Results:
-The following is a GIF of reconstructions with increasing epochs. <br>
-![Reconstructiongif](results/reconst.gif) <br>
-![Reconstmnist](resultsMNIST/train_mnist.gif)
+<table>
+  <tr> 
+    <td> <img src="results/reconst.gif"> </td>
+    <td> <img src="resultsMNIST/train_mnist.gif"> </td>
+  </tr>
+  <tr>
+    <td> Reconstruction in FashionMNIST </td>
+    <td> Training output in MNIST </td>
+  </tr>
+</table>

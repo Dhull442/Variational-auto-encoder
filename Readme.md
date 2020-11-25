@@ -3,5 +3,5 @@ A varitational auto encoder with KL diversion and MSE loss, implemented in pytor
 
 
 ## Results:
-The following is a GIF of reconstructions with increasing epochs.
+The following is a GIF of reconstructions with increasing epochs. <br>
 ![Reconstructiongif](results/reconst.gif)

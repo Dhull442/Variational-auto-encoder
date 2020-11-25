@@ -1,5 +1,8 @@
 ## Variational Auto encoder:
-A varitational auto encoder with KL diversion and MSE loss, implemented in pytorch on FashionMNIST.
+A varitational auto encoder with KL diversion and MSE loss, implemented using pytorch.
+
+## Usage:
+`python sparse_ae_kl.py --epochs 10 --reg_param 0.001 --add_sparse yes`
 
 
 ## Results:
